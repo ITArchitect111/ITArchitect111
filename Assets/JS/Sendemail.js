@@ -2,7 +2,7 @@
 document.getElementById('contact-form').addEventListener('submit', function(event) {
   event.preventDefault();
 
-  emailjs.sendForm('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', this)
+  emailjs.sendForm('service_qyh60kq', 'template_nwge6gk', this)
     .then(() => {
       document.getElementById('status').textContent = "✅ Message sent successfully!";
       this.reset();
