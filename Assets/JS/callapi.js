@@ -23,3 +23,4 @@ document.getElementById("contactForm").addEventListener("submit", async (e) => {
       }
 
       form.reset();
+      });
