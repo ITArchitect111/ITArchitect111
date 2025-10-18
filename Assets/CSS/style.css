@@ -542,8 +542,9 @@ body {
 }
 .FromContainer
 {
-  padding:60px;
-  margin:60px;
+  padding: 60px;
+  margin: 60px;
+  text-align: center;
 }
 form {
     display: inline-block;
