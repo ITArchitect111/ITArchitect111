@@ -550,7 +550,7 @@ body {
     background: radial-gradient(circle at center, rgba(0,255,0,0.1), rgba(0,0,0,1));
   }
 
-  form {
+   .FromContainer form {
     background: rgba(0, 255, 0, 0.05);
     padding: 40px;
     border-radius: 15px;
@@ -561,7 +561,7 @@ body {
     box-shadow: 0 0 20px rgba(0,255,0,0.1);
   }
 
-  h2 {
+   .FromContainer h2 {
     color: #0f0;
     font-family: monospace;
     margin-bottom: 20px;
@@ -571,7 +571,7 @@ body {
     margin-bottom: 15px;
   }
 
-  input, textarea {
+ .form-group input, textarea {
     width: 100%;
     padding: 10px;
     border: 1px solid #0f0;
@@ -583,12 +583,12 @@ body {
     transition: 0.3s ease;
   }
 
-  input:focus, textarea:focus {
+.form-group  input:focus, textarea:focus {
     outline: none;
     box-shadow: 0 0 8px #0f0;
   }
 
-  button {
+ .form-group button {
     background: #0f0;
     color: #000;
     border: none;
@@ -600,7 +600,7 @@ body {
     transition: 0.3s;
   }
 
-  button:hover {
+ .form-group button:hover {
     background: #fff;
     color: #000;
   }
@@ -898,14 +898,14 @@ body {
 .FromContainer {
       padding: 30px 10px;
     }
-    form {
+    .FromContainer form {
       width: 90%;
-      padding: 25px;
+      padding: px;
     }
-    input, textarea {
+   .form-group input, textarea {
       font-size: 13px;
     }
-    button {
+   .form-group button {
       width: 100%;
     }
   .Footer {
