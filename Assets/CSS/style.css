@@ -543,15 +543,16 @@ body {
 .FromContainer
 {
   padding: 60px;
-  margin: 60px;
+  margin: 10px;
   text-align: center;
 }
 form {
     display: inline-block;
       background: rgba(0, 255, 0, 0.05);
-      padding: 20px;
+      padding: 50px;
       border-radius: 10px;
       border: 1px solid #0f0;
+      height:60px;
     }
     input, textarea {
       width: 300px;
@@ -863,12 +864,11 @@ form {
   }
 .FromContainer
 {
-  padding:30px;
-  margin:30px;
+  padding:40px;
 }
 form
   {
-    padding:18px;
+    padding:35px;
     
     }
     input, textarea {
