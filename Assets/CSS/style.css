@@ -179,6 +179,7 @@ body {
   display: flex;
   flex-direction: column; 
   align-items: flex-start;
+  text-align:center;
 }
 
 .Service h1 {
