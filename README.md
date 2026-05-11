@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm IT Ako pero Bobo</h1>
-<p align="center">🎓 BS in Information Systems 2019-2023 | 💻 IT Academic Server: • IT Networking • IT Diagramming • Databases Management • Web Development</p>
+<p align="center">🎓 BS in Information Systems 2019-2023 | 💻 IT Technician: • IT Networking • IT Diagramming • Databases Management • Web Development</p>
 
 ---
 
